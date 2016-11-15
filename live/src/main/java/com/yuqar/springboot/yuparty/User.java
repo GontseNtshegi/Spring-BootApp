@@ -1,4 +1,4 @@
-package com.yuqar.springboot.yuparty;
+package com.yuqar.springboot.yuparty.model;
 
 public class User
 {
